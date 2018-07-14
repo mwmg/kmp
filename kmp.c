@@ -1,4 +1,4 @@
-// Author: Miguel Guse, miguel.guse@tum.de
+// Author: Miguel Guse
 #include <stdio.h>
 #include <string.h>
 
